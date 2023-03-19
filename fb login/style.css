@@ -1,0 +1,79 @@
+body{
+    background-color:#e8e6e4;
+}
+ #top{
+    border: 1px solid red;
+    width: 300px;
+    height: 400%;
+    padding: 80px;
+    padding-left: 140px;
+    border-radius: 15px;
+    margin-left: 800px;
+    margin-top: 150px;
+    background-color: none;
+   
+}
+
+#email{
+padding: 6px 60px 6px 4px;
+border-radius: 5px;
+margin-bottom: 10px;
+border: 1px solid black;
+}
+
+#password{
+    padding: 6px 60px 6px 4px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+#btn{
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 5px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: #0000ff;
+    color: white;
+    cursor: pointer;
+    border:  #0000ff;
+}
+
+#forget{
+    margin-top: 8px ;
+    margin-left: 55px;
+    color: #0000ff;
+    font-size: 15px;
+}
+
+#create{
+    
+    border: 1px solid gray;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+    cursor: pointer;
+    background-color: #3ea330;
+    color: white;
+    padding: 10px 6px;
+    border-radius: 5px;
+    
+}
+#page{
+   padding-left:840px;
+}
+#facebook{
+    font-size: 60px;
+    font-weight: bolder;
+    margin-top: -400px;
+    margin-left: 200px;
+    color: #2020ee;
+}
+
+#para{
+    font-size: 28px;
+    margin-left: 200px;
+    margin-top:-60px;
+}
